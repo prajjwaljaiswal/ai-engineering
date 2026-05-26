@@ -67,7 +67,7 @@ Every primitive lands with a unit test that compares its output against `torch.d
 
 Run it:
 
-```
+```bash
 python3 code/main.py
 ```
 
@@ -120,5 +120,5 @@ Use the queue-mesh primitives in lessons 77-81. Lesson 77 wires allreduce into D
 - [Horovod ring allreduce paper](https://arxiv.org/abs/1802.05799)
 - [NCCL topology and algorithm selection](https://docs.nvidia.com/deeplearning/nccl/user-guide/docs/index.html)
 - [Patarasuk and Yuan, Bandwidth optimal allreduce algorithms](https://www.cs.fsu.edu/~xyuan/paper/09jpdc.pdf)
-- Phase 10 Lesson 05 — distributed training overview
-- Phase 19 Lesson 77 — DDP wired on top of these primitives
+- Phase 10 Lesson 05 - distributed training overview
+- Phase 19 Lesson 77 - DDP wired on top of these primitives
