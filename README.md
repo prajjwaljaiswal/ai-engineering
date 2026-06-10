@@ -6,7 +6,7 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-1a1a1a?style=flat-square&labelColor=fafaf5" alt="MIT License"></a>
   <a href="ROADMAP.md"><img src="https://img.shields.io/badge/lessons-503-3553ff?style=flat-square&labelColor=fafaf5" alt="503 lessons"></a>
   <a href="#contents"><img src="https://img.shields.io/badge/phases-20-3553ff?style=flat-square&labelColor=fafaf5" alt="20 phases"></a>
-  <a href="https://github.com/prajjwaljaiswal/ai-engineering-from-scratch/stargazers"><img src="https://img.shields.io/github/stars/prajjwaljaiswal/ai-engineering-from-scratch?style=flat-square&labelColor=fafaf5&color=3553ff" alt="GitHub stars"></a>
+  <a href="https://github.com/prajjwaljaiswal/ai-engineering/stargazers"><img src="https://img.shields.io/github/stars/prajjwaljaiswal/ai-engineering?style=flat-square&labelColor=fafaf5&color=3553ff" alt="GitHub stars"></a>
   <a href="https://aiengineeringfromscratch.com"><img src="https://img.shields.io/badge/web-aiengineeringfromscratch.com-3553ff?style=flat-square&labelColor=fafaf5" alt="Website"></a>
 </p>
 
@@ -121,8 +121,8 @@ Three ways in. Pick one.
 **Option B — clone and run.**
 
 ```bash
-git clone https://github.com/prajjwaljaiswal/ai-engineering-from-scratch.git
-cd ai-engineering-from-scratch
+git clone https://github.com/prajjwaljaiswal/ai-engineering.git
+cd ai-engineering
 python phases/01-math-foundations/01-linear-algebra-intuition/code/vectors.py
 ```
 
@@ -958,9 +958,9 @@ The repo ships 388 skills and 99 prompts under `phases/**/outputs/`.
 detects your agent's skills directory automatically:
 
 ```bash
-npx skills add prajjwaljaiswal/ai-engineering-from-scratch                       # every skill
-npx skills add prajjwaljaiswal/ai-engineering-from-scratch --skill agent-loop    # one skill
-npx skills add prajjwaljaiswal/ai-engineering-from-scratch --phase 14            # one phase
+npx skills add prajjwaljaiswal/ai-engineering                       # every skill
+npx skills add prajjwaljaiswal/ai-engineering --skill agent-loop    # one skill
+npx skills add prajjwaljaiswal/ai-engineering --phase 14            # one phase
 ```
 
 `skills` writes to whichever directory your agent picks up: `.claude/skills/`,
@@ -1170,10 +1170,10 @@ Sign up via [GitHub Sponsors](https://github.com/sponsors/prajjwaljaiswal).
 
 ## Star history
 
-<a href="https://star-history.com/#prajjwaljaiswal/ai-engineering-from-scratch&Date">
+<a href="https://star-history.com/#prajjwaljaiswal/ai-engineering&Date">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=prajjwaljaiswal/ai-engineering-from-scratch&type=Date&theme=dark">
-    <img alt="Star history" src="https://api.star-history.com/svg?repos=prajjwaljaiswal/ai-engineering-from-scratch&type=Date" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=prajjwaljaiswal/ai-engineering&type=Date&theme=dark">
+    <img alt="Star history" src="https://api.star-history.com/svg?repos=prajjwaljaiswal/ai-engineering&type=Date" width="100%">
   </picture>
 </a>
 
@@ -1189,5 +1189,5 @@ Maintained by [Rohit Ghumare](https://github.com/prajjwaljaiswal) and the commun
 <sub>
   <a href="https://x.com/ghumare64">@ghumare64</a> &nbsp;·&nbsp;
   <a href="https://aiengineeringfromscratch.com">aiengineeringfromscratch.com</a> &nbsp;·&nbsp;
-  <a href="https://github.com/prajjwaljaiswal/ai-engineering-from-scratch/issues/new/choose">Report / Suggest</a>
+  <a href="https://github.com/prajjwaljaiswal/ai-engineering/issues/new/choose">Report / Suggest</a>
 </sub>

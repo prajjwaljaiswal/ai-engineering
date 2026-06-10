@@ -72,8 +72,8 @@ git merge experiment/new-optimizer
 ### Step 4: Working with this course repo
 
 ```bash
-git clone https://github.com/prajjwaljaiswal/ai-engineering-from-scratch.git
-cd ai-engineering-from-scratch
+git clone https://github.com/prajjwaljaiswal/ai-engineering.git
+cd ai-engineering
 
 git checkout -b my-progress
 # work through lessons, commit your code
